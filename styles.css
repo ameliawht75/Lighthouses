@@ -7,7 +7,7 @@ body{
 }
 h1 {
     text-align: center;
-    background-image: url("https://kerrfinancial.com/wp-content/uploads/2018/04/lighthouse-banner.jpg");
+    background-image: url("https://kerrfinancial.com/wp-content/uploads/2018/04/lighthouse-banner.jpg"); /*Need an image that would look better going across the top of the page.*/
     background-repeat: no-repeat;
     background-position: center;
     height: 150px;
@@ -64,18 +64,18 @@ td{
 }
 #list{
     text-decoration: dashed;
-    color: red
+    color: red /*Color choice is to let the list stand out while working.*/
 }
 #haunted-banner{
     text-align: center;
     font-family: Chiller;
     font-size: 50px;
     text-shadow: 2px 2px pink;
-    color: red;
+    color: red; /*Adjust font color for something that has more contrast.*/
     text-decoration: red;
     background-image: url("https://img.freepik.com/premium-vector/funny-ghosts-seamless-pattern-cute-creepy-horizontal-halloween-banner-background_651519-340.jpg");
-    background-repeat: repeat;
+    background-repeat: repeat; /*Found an image that made a good repeating pattern is key.*/
     background-position: center;
     height: 150px;
     padding-top: 100px;
-}
+} /*Custom banner for page that has a little bit more user interaction.*/
