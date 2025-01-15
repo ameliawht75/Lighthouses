@@ -1,0 +1,80 @@
+html {
+    font-family: Arial, 'Trebuchet MS', sans-serif;
+    background: linear-gradient( 180 deg, #84daf5, #89ffff, #affffa, #ffffff)
+}
+body{
+    background: rgba(0,128,0,0.3);
+}
+h1 {
+    text-align: center;
+    background-image: url("https://kerrfinancial.com/wp-content/uploads/2018/04/lighthouse-banner.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    height: 150px;
+    padding-top: 100px;
+}
+h2 {
+    text-align: center;
+}
+h3{
+    text-align: left;
+}
+p{
+    text-align: left;
+}
+/*Style for horizontal line*/
+hr{
+    border-color: #3498db;
+    border-width: 2px;
+}
+input[type="radio"] {
+    place-content: center;
+    appearance: none;
+    width: 2rem;
+    height: 1rem;
+    align-items: center;
+    background-color: #fff;
+}
+input[type="radio"]:checked {
+    background-color: darkblue
+}
+table, th, td{
+    border: 1px solid;
+    border-color: darkgreen;
+}
+table {
+    width: 100%
+}
+td{
+    text-align: center;
+}
+.img{
+    float: right;
+}
+.text{
+    float: left;
+}
+.submission-form{
+    text-align: left;
+    font-size: medium;
+}
+.navigation {
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#list{
+    text-decoration: dashed;
+    color: red
+}
+#haunted-banner{
+    text-align: center;
+    font-family: Chiller;
+    font-size: 50px;
+    text-shadow: 2px 2px pink;
+    color: red;
+    text-decoration: red;
+    background-image: url("https://img.freepik.com/premium-vector/funny-ghosts-seamless-pattern-cute-creepy-horizontal-halloween-banner-background_651519-340.jpg");
+    background-repeat: repeat;
+    background-position: center;
+    height: 150px;
+    padding-top: 100px;
